@@ -1,5 +1,6 @@
 # Space
 Toontown Online Content Pack "Space" by Angel Lovely
+This Content Pack is not fully functional with Toontown Rewritten
 
 # Information
 
